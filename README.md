@@ -6,6 +6,11 @@ Desarrollo de servidor con cluster y fork
 Tomando con base el proyecto que vamos realizando, agregar un argumento más en la ruta de comando que permita ejecutar al servidor en modo fork o cluster. 
 Dicho argumento será 'FORK' en el primer caso y 'CLUSTER' en el segundo, y de no pasarlo, el servidor iniciará en modo fork por defecto.
 
+Ejecutar el servidor (con los parámetros adecuados: modo FORK) utilizando PM2 en sus modos fork y cluster. Listar los procesos por PM2 y por sistema operativo.
+Tanto en Forever como en PM2 permitir el modo escucha, para que la actualización del código del servidor se vea reflejado inmediatamente en todos los procesos.
+Hacer pruebas de finalización de procesos fork y cluster en los casos que corresponda.
+
+
 # Ejecucion y pruebas:
 
 ## Ejecucion:
