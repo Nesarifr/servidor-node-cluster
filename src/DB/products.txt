@@ -1,0 +1,8 @@
+[
+  {
+    "title": "hola",
+    "price": 150,
+    "thumbnail": "https://developer.mozilla.org/es/docs/Learn/Forms/HTML5_input_types",
+    "id": 1
+  }
+]
